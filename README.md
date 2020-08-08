@@ -22,8 +22,6 @@
 <!---Unity -->
 [<img align="left" alt="Unity" width="26px" src="https://images.techhive.com/images/article/2015/03/unity-logo-100571261-large.jpg" />]
 
-
-
 <br />
 <br />
 
