@@ -26,7 +26,7 @@
 <br />
 <br />
 
-<img align="left" alt="Darrel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dzhang1024&show_icons=true&hide_border=true" />
+<img align="left" alt="Darrel's Github Stats" src="https://github-readme-stats.dzhang1024.vercel.app/api?username=dzhang1024&show_icons=true&hide_border=true" />
 
 [facebook]:https://www.facebook.com/dzhang.24
 [linkedin]:https://www.linkedin.com/in/darrel-zhang/
