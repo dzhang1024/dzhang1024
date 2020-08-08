@@ -8,9 +8,9 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-- Email: darrel.zhang@gmail.com 
+[<img align="left" alt="darrel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="darrel | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="darrel | Gmail" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />][gmail]
 
 <br />
 
@@ -31,3 +31,4 @@
 
 [facebook]:https://www.facebook.com/dzhang.24
 [linkedin]:https://www.linkedin.com/in/darrel-zhang/
+[gmail]:darrel.zhang@gmail.com
