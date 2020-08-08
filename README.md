@@ -1,9 +1,9 @@
 ### Hi there, I'm Darrel Zhang!
 
-## I'm a third year student at the University of Virigina!
+## I'm a Third Year student at the University of Virigina!
 - I’m currently trying to learn Unity to develop my own games!
 - I’m always looking for more new things to learn 
-- ⚡ Fun fact: Other than coding, I really enjoy cooking and traveling 
+- Fun fact: Other than coding, I really enjoy cooking and traveling 
 
 ### Connect with me:
 
@@ -27,7 +27,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dzhang1024&show_icons=true&hide_border=true" />
 
-[website]: 
-[facebook]: https://www.facebook.com/dzhang.24
-[youtube]: 
-[linkedin]: https://www.linkedin.com/in/darrel-zhang/
+[facebook]:https://www.facebook.com/dzhang.24
+[linkedin]:https://www.linkedin.com/in/darrel-zhang/
