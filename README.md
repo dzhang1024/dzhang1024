@@ -14,13 +14,13 @@
 
 ### Languages and Tools I'm working with currently:
 <!---C++ image -->
-[<img align="left" alt="C++" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" />]
+<img align="left" alt="C++" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" />
 <!---Java -->
-[<img align="left" alt="Java" width="26px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" />]
+<img align="left" alt="Java" width="26px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" />
 <!---Python -->
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />]
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <!---Unity -->
-[<img align="left" alt="Unity" width="26px" src="https://images.techhive.com/images/article/2015/03/unity-logo-100571261-large.jpg" />]
+<img align="left" alt="Unity" width="26px" src="https://images.techhive.com/images/article/2015/03/unity-logo-100571261-large.jpg" />
 
 <br />
 <br />
