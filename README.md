@@ -3,13 +3,14 @@
 ## I'm a Third Year Student at the University of Virigina!
 - I’m currently trying to learn Unity to develop my own games!
 - I'm also trying to get the hang of github so that I can share the things I am working on. 
-- I’m always looking for more new things to learn!
+- I’m always open to tutoring younger students about coding and computer science!
 - Fun fact: Other than coding, I really enjoy cooking and traveling!
 
 ### Connect with Me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+- Email: darrel.zhang@gmail.com 
 
 <br />
 
