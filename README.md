@@ -8,8 +8,8 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="darrel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="darrel | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="darrel | LinkedIn" width="22px" src="https://i7.pngguru.com/preview/573/791/661/computer-icons-linkedin-logo-advertising-carex.jpg" />][linkedin]
+[<img align="left" alt="darrel | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250" />][facebook]
 [<img align="left" alt="darrel | Gmail" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />][gmail]
 
 <br />
