@@ -14,7 +14,7 @@
 
 ### Languages and Tools I'm working with currently:
 <!---C++ image -->
-<img align="left" alt="C++" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" />
+img align="left" alt="C++" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"
 <!---Java -->
 <img align="left" alt="Java" width="26px" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" />
 <!---Python -->
