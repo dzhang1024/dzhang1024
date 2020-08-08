@@ -1,18 +1,19 @@
 ### Hi there, I'm Darrel Zhang!
 
-## I'm a Third Year student at the University of Virigina!
+## I'm a Third Year Student at the University of Virigina!
 - I’m currently trying to learn Unity to develop my own games!
-- I’m always looking for more new things to learn 
-- Fun fact: Other than coding, I really enjoy cooking and traveling 
+- I'm also trying to get the hang of github so that I can share the things I am working on. 
+- I’m always looking for more new things to learn!
+- Fun fact: Other than coding, I really enjoy cooking and traveling!
 
-### Connect with me:
+### Connect with Me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
-### Languages and Tools I'm working with currently:
+### Languages and Tools I'm Currently Working With:
 <!---C++ image -->
 <img align="left" alt="C++" width="26px" src=https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png />
 <!---Java -->
@@ -25,7 +26,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dzhang1024&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.dzhang1024.vercel.app/api?username=dzhang1024&show_icons=true&hide_border=true" />
 
 [facebook]:https://www.facebook.com/dzhang.24
 [linkedin]:https://www.linkedin.com/in/darrel-zhang/
