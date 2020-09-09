@@ -32,3 +32,4 @@
 [facebook]:https://www.facebook.com/dzhang.24
 [linkedin]:https://www.linkedin.com/in/darrel-zhang/
 [gmail]:darrel.zhang@gmail.com
+<!-- added a few comments>
